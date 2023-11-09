@@ -4,9 +4,6 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=neutronbomb23&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neutronbomb23)
-
-[![Actividad de commits de neutronbomb23](https://activity-graph.herokuapp.com/graph?username=neutronbomb23&theme=xcode)](https://git.io/neutronbomb23)
-
 <!--
 **neutronbomb23/neutronbomb23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
