@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=neutronbomb23&show_icons=true)
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=neutronbomb23&layout=compact)
+
 <!--
 **neutronbomb23/neutronbomb23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
