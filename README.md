@@ -1,8 +1,9 @@
-### 👋 Hola, soy Dorjee
-Estudiante de Desarrollo de Videojuegos de la UCM y amante del Newcastle United.
+### <font size="4">👋 Hola, soy Dorjee</font>
+<font size="2">Estudiante de Desarrollo de Videojuegos de la UCM y amante del Newcastle United.</font>
+
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### <font size="4">📊 Mis Estadísticas de GitHub</font>
 ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=neutronbomb23&show_icons=true)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=neutronbomb23&layout=compact)
@@ -11,7 +12,7 @@ Estudiante de Desarrollo de Videojuegos de la UCM y amante del Newcastle United.
 
 ---
 
-### 💻 Tecnologías, Lenguajes y Herramientas
+### <font size="4">💻 Tecnologías, Lenguajes y Herramientas</font>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
@@ -23,8 +24,7 @@ Estudiante de Desarrollo de Videojuegos de la UCM y amante del Newcastle United.
 
 ---
 
-### 📫 Cómo Contactarme
-Correo electrónico: dorjee2308@gmail.com
+### <font size="4">📫 Cómo Contactarme</font>
+<font size="2">Correo electrónico: dorjee2308@gmail.com</font>
 
 ---
-
