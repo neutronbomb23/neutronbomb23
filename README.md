@@ -1,8 +1,3 @@
-### <font size="4">👋 Hola, soy Dorjee</font>
-<font size="2">Estudiante de Desarrollo de Videojuegos de la UCM y amante del Newcastle United.</font>
-
----
-
 ### <font size="4">📊 Mis Estadísticas de GitHub</font>
 ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=neutronbomb23&show_icons=true)
 
