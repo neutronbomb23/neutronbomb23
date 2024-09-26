@@ -19,7 +19,7 @@
 
 ---
 ### <font size="4">📫 Cómo Contactarme</font>
-<font size="2">Correo electrónico: dorjee2308@gmail.com</font>
+<font size="2">Correo electrónico: dorjeehb23@proton.me</font>
 
 ---
 
